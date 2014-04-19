@@ -1,0 +1,140 @@
+m255
+13
+cModel Technology
+dC:\Users\mao\Desktop\ee457lab\ee457_lab3_4bit_ALU
+vcomp_station_P1
+Ia=LN65IZHC4P:af:l9m3L0
+VRo12cTbEaoHFfi<X6HZK73
+dC:\Users\mao\Desktop\ee457_lab7_P3_Verilog
+w1289377602
+FC:/Users/mao/Desktop/ee457_lab7_P3_Verilog/ee457_lab7_components.v
+L0 162
+VRo12cTbEaoHFfi<X6HZK73
+OE;L;6.1f;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000
+ncomp_station_@p1
+vcomp_station_P3
+Ig@[^HbFOZbZZCGiO`i06L2
+VmP;hL?h;klLIW98e^ES960
+dC:\Users\mao\Desktop\ee457_lab7_P3_Verilog
+w1289377602
+FC:/Users/mao/Desktop/ee457_lab7_P3_Verilog/ee457_lab7_components.v
+L0 186
+VmP;hL?h;klLIW98e^ES960
+OE;L;6.1f;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000
+ncomp_station_@p3
+vee457_lab7_P3
+IeF2j_JSaBJZ`m`Hfjdllf3
+VKmSm3g3Q@V`cb`Ke1XkE32
+dC:\Users\mao\Desktop\ee457_lab7_P3_Verilog
+w1394840424
+FC:/Users/mao/Desktop/ee457_lab7_P3_Verilog/ee457_lab7_P3.v
+L0 29
+VKmSm3g3Q@V`cb`Ke1XkE32
+OE;L;6.1f;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000
+nee457_lab7_@p3
+vee457_lab7_P3_tb
+IgcJ=]7FFRD^7WlcEd1BkO3
+V0ZL^6:A1UID2zi7J9[2K33
+dC:\Users\mao\Desktop\ee457_lab7_P3_Verilog
+w1299369402
+FC:/Users/mao/Desktop/ee457_lab7_P3_Verilog/ee457_lab7_P3_tb.v
+L0 8
+V0ZL^6:A1UID2zi7J9[2K33
+OE;L;6.1f;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000
+nee457_lab7_@p3_tb
+vins_mem
+ICbZ^IaEzfNihGfnBSPD4c2
+VfnjzcKT0`m[SSR_CIS2f<0
+dC:\Users\mao\Desktop\ee457_lab7_P3_Verilog
+w1289377602
+FC:/Users/mao/Desktop/ee457_lab7_P3_Verilog/ee457_lab7_components.v
+L0 24
+VfnjzcKT0`m[SSR_CIS2f<0
+OE;L;6.1f;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000
+vpc
+Iz`0PBEWB`Y`aRXiG[26d`2
+VDOzlHZh3c6eNdk4bS<_`B0
+dC:\Users\mao\Desktop\ee457_lab7_P3_Verilog
+w1289377602
+FC:/Users/mao/Desktop/ee457_lab7_P3_Verilog/ee457_lab7_components.v
+L0 9
+VDOzlHZh3c6eNdk4bS<_`B0
+OE;L;6.1f;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000
+vpipe_if_id_P1
+IDSaJkOj][55dh3]ikh6Sn3
+V2N9_=OCan5fLA^X80onV31
+dC:\Users\mao\Desktop\ee457_lab7_P3_Verilog
+w1289377602
+FC:/Users/mao/Desktop/ee457_lab7_P3_Verilog/ee457_lab7_components.v
+L0 32
+V2N9_=OCan5fLA^X80onV31
+OE;L;6.1f;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000
+npipe_if_id_@p1
+vpipe_if_id_P3
+Il2NH1oRDnk<=1oXlIoj6@1
+VjOYdzKzc9A]THfS@]]iz_1
+dC:\Users\mao\Desktop\ee457_lab7_P3_Verilog
+w1289377602
+FC:/Users/mao/Desktop/ee457_lab7_P3_Verilog/ee457_lab7_components.v
+L0 61
+VjOYdzKzc9A]THfS@]]iz_1
+OE;L;6.1f;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000
+npipe_if_id_@p3
+vpipe_reg2
+IX1ZX]<^6Q`b9z85MGk`aT2
+VZXNEOfgDJUgY[2:^ZF2AT3
+dC:\Users\mao\Desktop\ee457_lab7_P3_Verilog
+w1289377602
+FC:/Users/mao/Desktop/ee457_lab7_P3_Verilog/ee457_lab7_components.v
+L0 112
+VZXNEOfgDJUgY[2:^ZF2AT3
+OE;L;6.1f;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000
+vregister_file
+I?lKoKnUKXPNdDVCMA52QP2
+VRbVW5Z4UR9JTOGmWEZZz93
+dC:\Users\mao\Desktop\ee457_lab7_P3_Verilog
+w1289377602
+FC:/Users/mao/Desktop/ee457_lab7_P3_Verilog/ee457_lab7_components.v
+L0 87
+VRbVW5Z4UR9JTOGmWEZZz93
+OE;L;6.1f;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000

@@ -1,0 +1,30 @@
+m255
+13
+cModel Technology
+dG:\mips\singlecycle\src
+vmin_max_finder_part1
+I;co4nCO93A?@CBHW7@[JY1
+VG5Z1MC4:eg_zXN3gH54kS2
+dC:\Users\mao\Desktop\ee457lab\lab1part1\min_max_finder_part1
+w1390956008
+Fmin_max_finder_part1.v
+L0 11
+VG5Z1MC4:eg_zXN3gH54kS2
+OE;L;6.1f;31
+r1
+31
+o+acc
+tGenerateLoopIterationMax 100000
+vmin_max_finder_part1_tb
+IGID:Bl555`z4=zWE1A;o[3
+V3^NeMM7EFZUi[zFlP5XV>3
+dC:\Users\mao\Desktop\ee457lab\lab1part1\min_max_finder_part1
+w1275663674
+Fmin_max_finder_part1_tb.v
+L0 10
+V3^NeMM7EFZUi[zFlP5XV>3
+OE;L;6.1f;31
+r1
+31
+o+acc
+tGenerateLoopIterationMax 100000

@@ -1,0 +1,15 @@
+C:/Users/mao/Desktop/ee457lab/lab1part1/min_max_finder_part1/min_max_finder_part1.v {1 {vlog -work work -novopt C:/Users/mao/Desktop/ee457lab/lab1part1/min_max_finder_part1/min_max_finder_part1.v
+Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+-- Compiling module min_max_finder_part1
+
+Top level modules:
+	min_max_finder_part1
+
+} {} {}} C:/Users/mao/Desktop/ee457lab/lab1part1/min_max_finder_part1/min_max_finder_part1_tb.v {1 {vlog -work work -novopt C:/Users/mao/Desktop/ee457lab/lab1part1/min_max_finder_part1/min_max_finder_part1_tb.v
+Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+-- Compiling module min_max_finder_part1_tb
+
+Top level modules:
+	min_max_finder_part1_tb
+
+} {} {}}

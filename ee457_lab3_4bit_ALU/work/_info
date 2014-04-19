@@ -1,0 +1,56 @@
+m255
+13
+cModel Technology
+dC:\Users\mao\Desktop\ee457lab\lab1part1\min_max_finder_part3_M2
+valu_1_bit
+Ij<dkJV^D`ZANdih?D<?_I0
+V5EZfceJ_S9L^kQW1<U0JG2
+dC:\Users\mao\Desktop\ee457lab\ee457_lab3_4bit_ALU
+w1391978427
+FC:/Users/mao/Desktop/ee457lab/ee457_lab3_4bit_ALU/alu_4_bit.v
+L0 17
+V5EZfceJ_S9L^kQW1<U0JG2
+OE;L;6.1f;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000
+valu_4_bit
+I:HU[e0]=4MEg<YEI0h<F=2
+V19Y3FIK;UTgCSRfO<jh:m1
+dC:\Users\mao\Desktop\ee457lab\ee457_lab3_4bit_ALU
+w1391978427
+FC:/Users/mao/Desktop/ee457lab/ee457_lab3_4bit_ALU/alu_4_bit.v
+L0 67
+V19Y3FIK;UTgCSRfO<jh:m1
+OE;L;6.1f;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000
+valu_4_bit_different_stimuli_tb
+I3zSojSjN>@n`3`3i]3e6o1
+V8;`9iQBc>`=8d2a[Sg10L3
+dC:\Users\mao\Desktop\ee457lab\ee457_lab3_4bit_ALU
+w1391981268
+FC:/Users/mao/Desktop/ee457lab/ee457_lab3_4bit_ALU/alu_4_bit_different_stimuli_tb.v
+L0 13
+V8;`9iQBc>`=8d2a[Sg10L3
+OE;L;6.1f;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000
+valu_4_bit_tb
+Ic4n6_RBJf5j8NTDM>bXNF0
+VmQ1e?VG=8Io5`12bZ095b0
+dC:\Users\mao\Desktop\ee457lab\ee457_lab3_4bit_ALU
+w1276912712
+FC:/Users/mao/Desktop/ee457lab/ee457_lab3_4bit_ALU/alu_4_bit_tb.v
+L0 10
+VmQ1e?VG=8Io5`12bZ095b0
+OE;L;6.1f;31
+r1
+31
+o-work work
+tGenerateLoopIterationMax 100000

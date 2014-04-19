@@ -1,0 +1,15 @@
+C:/Users/mao/Desktop/ee457_lab7_P3_RTL_Coding_Style_with_EX1_EX2_merged/ee457_lab7_P3_RTL_Coding_Style_with_EX1_EX2_merged.v {1 {vlog -work work -novopt C:/Users/mao/Desktop/ee457_lab7_P3_RTL_Coding_Style_with_EX1_EX2_merged/ee457_lab7_P3_RTL_Coding_Style_with_EX1_EX2_merged.v
+Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+-- Compiling module ee457_lab7_P3
+
+Top level modules:
+	ee457_lab7_P3
+
+} {} {}} C:/Users/mao/Desktop/ee457_lab7_P3_RTL_Coding_Style_with_EX1_EX2_merged/ee457_lab7_P3_RTL_Coding_Style_with_EX1_EX2_merged_tb.v {1 {vlog -work work -novopt C:/Users/mao/Desktop/ee457_lab7_P3_RTL_Coding_Style_with_EX1_EX2_merged/ee457_lab7_P3_RTL_Coding_Style_with_EX1_EX2_merged_tb.v
+Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+-- Compiling module ee457_lab7_P3_tb
+
+Top level modules:
+	ee457_lab7_P3_tb
+
+} {} {}}

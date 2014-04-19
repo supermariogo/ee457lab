@@ -1,0 +1,119 @@
+# Reading D:/Modeltech_6.1f/tcl/vsim/pref.tcl 
+# //  ModelSim SE 6.1f May 12 2006 
+# //
+# //  Copyright 2006 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+#  OpenFile "C:/Users/mao/Desktop/ee457lab/lab1part1/min_max_finder_part2/min_max_finder_part2.mpf" 
+# Loading project min_max_finder_part2
+# Load canceled
+min_max_finder_part2.do
+# couldn't execute ".\min_max_finder_part2.do": no such file or directory
+do min_max_finder_part2.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+# -- Compiling module min_max_finder_part2
+# 
+# Top level modules:
+# 	min_max_finder_part2
+# Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+# -- Compiling module min_max_finder_part2_tb
+# 
+# Top level modules:
+# 	min_max_finder_part2_tb
+# vsim -lib work -t 1ps -novopt min_max_finder_part2_tb 
+# Loading work.min_max_finder_part2_tb
+# Loading work.min_max_finder_part2
+# ** Error: unknown option "-timelineunits"
+# Executing ONERROR command at macro ./min_max_finder_part2_wave.do line 33
+# .main_pane.mdi.interior.cs.vm.paneset.cli_4.wf.clip.cs.pw.wf
+# .main_pane.workspace
+# .main_pane.signals.interior.cs
+# Test number   1: Max: 245 decimal = f5 hex   and   Min:   2 decimal = 02 hex
+#     Design entered DONE state from   CMn .
+#            Clocks taken for this test = 60. 
+# 
+# Test number   2: Max: 185 decimal = b9 hex   and   Min:   1 decimal = 01 hex
+#     Design entered DONE state from   CMn .
+#            Clocks taken for this test = 29. 
+# 
+# Test number   3: Max: 222 decimal = de hex   and   Min:  30 decimal = 1e hex
+#     Design entered DONE state from   CMn .
+#            Clocks taken for this test = 24. 
+# 
+# Test number   4: Max: 255 decimal = ff hex   and   Min:   0 decimal = 00 hex
+#     Design entered DONE state from   CMn .
+#            Clocks taken for this test = 31. 
+# 
+# Test number   5: Max: 130 decimal = 82 hex   and   Min: 115 decimal = 73 hex
+#     Design entered DONE state from   CMn .
+#            Clocks taken for this test = 48. 
+# 
+# Test number   6: Max: 130 decimal = 82 hex   and   Min: 115 decimal = 73 hex
+#     Design entered DONE state from   CMn .
+#            Clocks taken for this test = 31. 
+# 
+quit -sim
+# Compile of min_max_finder_part2.v was successful.
+# Compile of min_max_finder_part2_tb.v was successful.
+# 2 compiles, 0 failed with no errors. 
+do min_max_finder_part2.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+# -- Compiling module min_max_finder_part2
+# 
+# Top level modules:
+# 	min_max_finder_part2
+# Model Technology ModelSim SE vlog 6.1f Compiler 2006.05 May 12 2006
+# -- Compiling module min_max_finder_part2_tb
+# 
+# Top level modules:
+# 	min_max_finder_part2_tb
+# vsim -lib work -t 1ps -novopt min_max_finder_part2_tb 
+# Loading work.min_max_finder_part2_tb
+# Loading work.min_max_finder_part2
+# ** Error: unknown option "-timelineunits"
+# Executing ONERROR command at macro ./min_max_finder_part2_wave.do line 33
+# .main_pane.mdi.interior.cs.vm.paneset.cli_4.wf.clip.cs.pw.wf
+# .main_pane.workspace
+# .main_pane.signals.interior.cs
+# Test number   1: Max: 245 decimal = f5 hex   and   Min:   2 decimal = 02 hex
+#     Design entered DONE state from   CMx .
+#            Clocks taken for this test = 28. 
+# 
+# Test number   2: Max: 185 decimal = b9 hex   and   Min:   1 decimal = 01 hex
+#     Design entered DONE state from   CMn .
+#            Clocks taken for this test = 29. 
+# 
+# Test number   3: Max: 222 decimal = de hex   and   Min:  30 decimal = 1e hex
+#     Design entered DONE state from   CMn .
+#            Clocks taken for this test = 24. 
+# 
+# Test number   4: Max: 255 decimal = ff hex   and   Min:   0 decimal = 00 hex
+#     Design entered DONE state from   CMn .
+#            Clocks taken for this test = 31. 
+# 
+# Test number   5: Max: 130 decimal = 82 hex   and   Min: 115 decimal = 73 hex
+#     Design entered DONE state from   CMx .
+#            Clocks taken for this test = 16. 
+# 
+# Test number   6: Max: 130 decimal = 82 hex   and   Min: 115 decimal = 73 hex
+#     Design entered DONE state from   CMn .
+#            Clocks taken for this test = 31. 
+# 
+# Test number   7: Max: 130 decimal = 82 hex   and   Min: 117 decimal = 75 hex
+#     Design entered DONE state from   CMn .
+#            Clocks taken for this test = 26. 
+# 
+# Test number   8: Max: 129 decimal = 81 hex   and   Min:  35 decimal = 23 hex
+#     Design entered DONE state from   CMn .
+#            Clocks taken for this test = 25. 
+# 
+# 
+#  All tests concluded. Inspect the text file output_results_part2.txt. 
+#  Current Clock Count = 228 

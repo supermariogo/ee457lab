@@ -1,0 +1,52 @@
+# Reading D:/Modeltech_6.1f/tcl/vsim/pref.tcl 
+# //  ModelSim SE 6.1f May 12 2006 
+# //
+# //  Copyright 2006 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+#  OpenFile "C:/Users/mao/Desktop/ee457_lab7_P3_RTL_Coding_Style_R2_Mux_in_WB/ee457_lab7_P3_RTL_Coding_Style_R2_Mux_in_WB.mpf" 
+# Loading project ee457_lab7_P3_RTL_Coding_Style_R2_Mux_in_WB
+vsim -gui work.ee457_lab7_P3_tb
+# vsim -gui work.ee457_lab7_P3_tb 
+# Loading work.ee457_lab7_P3_tb
+# Loading work.ee457_lab7_P3
+do ee457_lab7_P3_RTL_Coding_Style_R2_Mux_in_WB_wave.do
+# ** Error: unknown option "-timelineunits"
+# Executing ONERROR command at macro ./ee457_lab7_P3_RTL_Coding_Style_R2_Mux_in_WB_wave.do line 94
+run
+quit -sim
+# Compile of ee457_lab7_P3_RTL_Coding_Style_tb.v was successful.
+# Compile of ee457_lab7_P3_RTL_Coding_Style_R2_Mux_in_WB.v was successful.
+# 2 compiles, 0 failed with no errors. 
+# Load canceled
+vsim -gui work.ee457_lab7_P3_tb
+# vsim -gui work.ee457_lab7_P3_tb 
+# Loading work.ee457_lab7_P3_tb
+# Loading work.ee457_lab7_P3
+do ee457_lab7_P3_RTL_Coding_Style_R2_Mux_in_WB_wave.do
+# ** Error: unknown option "-timelineunits"
+# Executing ONERROR command at macro ./ee457_lab7_P3_RTL_Coding_Style_R2_Mux_in_WB_wave.do line 94
+run
+quit -sim
+# Compile of ee457_lab7_P3_RTL_Coding_Style_tb.v was successful.
+# Compile of ee457_lab7_P3_RTL_Coding_Style_tb.v was successful.
+# Compile of ee457_lab7_P3_RTL_Coding_Style_R2_Mux_in_WB.v was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of ee457_lab7_P3_RTL_Coding_Style_R2_Mux_in_WB.v was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of ee457_lab7_P3_RTL_Coding_Style_tb.v was successful.
+# Compile of ee457_lab7_P3_RTL_Coding_Style_R2_Mux_in_WB.v was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -gui work.ee457_lab7_P3_tb
+# vsim -gui work.ee457_lab7_P3_tb 
+# Loading work.ee457_lab7_P3_tb
+# Loading work.ee457_lab7_P3
+do ee457_lab7_P3_RTL_Coding_Style_R2_Mux_in_WB_wave.do
+# ** Error: unknown option "-timelineunits"
+# Executing ONERROR command at macro ./ee457_lab7_P3_RTL_Coding_Style_R2_Mux_in_WB_wave.do line 94
+run
